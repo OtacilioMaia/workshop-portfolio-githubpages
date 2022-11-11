@@ -71,3 +71,13 @@ Então agora vamos entender um pouco da sintaxe de Markdown.
 | Imagem   | \![texto alternativo]\(linkimagem.jpg) |
 
 ## Vamos começar com um título pro Nosso Site, uma descrição de nós mesmos e uma lista de coisas que estamos estudando
+
+<img width="1201" alt="Captura de Tela 2022-11-11 às 19 41 19" src="https://user-images.githubusercontent.com/10578275/201440520-a1ece4d0-f46d-4f34-89c1-9759487aca35.png">
+
+Uma vez criado nosso conteúdo, iremos fazer nosso "commit", fazer um commit é como salvar seu progesso em um jogo, mas em vez de ser um jogo, é salvo o progresso do seu código. 
+
+Podemos dar um nome ao nosso commit e descrever o que fizemos nele.
+
+<img width="1192" alt="Captura de Tela 2022-11-11 às 19 43 42" src="https://user-images.githubusercontent.com/10578275/201440699-8b0276c0-1fc2-4e73-ae14-a64ea7b12f3a.png">
+
+Uma vez escrito sua mensagem de commit, basta clicar no botão verde `Commit changes`
