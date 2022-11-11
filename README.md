@@ -33,3 +33,40 @@ Após escolher um nome pro seu repositório, colocar uma descrição, marque a o
 Uma vez preenchido tudo, basta clicar no botão `Create Repository`
 
 <img width="724" alt="Captura de Tela 2022-11-11 às 19 10 23" src="https://user-images.githubusercontent.com/10578275/201437796-04d631ea-7b65-43fe-870d-45e41cd5682f.png">
+
+## Temos nosso repositório!
+
+Uma vez criado seu repositório, você deve estar numa tela parecida com essa. 
+
+<img width="1440" alt="Captura de Tela 2022-11-11 às 19 11 56" src="https://user-images.githubusercontent.com/10578275/201438236-f27a6ceb-3884-4b6b-816e-a69e09478372.png">
+
+*Se algo não deu certo, esse é o momento de levantar a mão e pedir ajuda*
+
+Você encontrará um ícone de edição no topo do conteúdo do seu README.md, clique neste ícone.
+
+<img width="48" alt="Captura de Tela 2022-11-11 às 19 16 11" src="https://user-images.githubusercontent.com/10578275/201438485-65d65ff4-91e6-4d43-be1f-c03cc98d5b73.png">
+
+Abrirá uma tela de edição onde começaremos nosso site de portfólio.
+
+<img width="1440" alt="Captura de Tela 2022-11-11 às 19 18 18" src="https://user-images.githubusercontent.com/10578275/201438577-3d0ffe81-317c-48f8-bcf5-7e1662aeede7.png">
+
+## Markdown
+
+Você deve ter notado que este arquivo criado termina com a extensão `.md`, isto porque estamos usando `Markdown` que é uma linguagem de marcação, assim como o `HTML`. 
+
+A diferença é que Markdown é pensado para que o conteúdo seja bem legível por humanos ainda no código fonte, sendo mais simples de criar textos, mas ainda ganhar poder de semântica criando títulos, parágrafos, links, imagens, listas, etc. 
+
+Então agora vamos entender um pouco da sintaxe de Markdown. 
+
+### Sintaxe de Markdown 
+
+| Elemento | Sintaxe Markdown        |
+|----------|-------------------------|
+| Titulos  | # h1 ## h2 ... ### h6   |
+| Negrito  | **Texto negrito**       |
+| Itálico  | **Texto itálico**       |
+| lista ordenada | 1. Primeiro Item 2. Segundo Item 3. Terceiro Item |
+| Lista nao ordenada | - Primeiro Item - Segundo Item - Terceiro Item    |
+| Link               | [titulo]\(https://www.exemplo.com)              |
+| Imagem   | \![texto alternativo]\(linkimagem.jpg) |
+
