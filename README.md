@@ -1,4 +1,3 @@
-<img width="319" alt="Captura de Tela 2022-11-11 às 18 53 16" src="https://user-images.githubusercontent.com/10578275/201436481-90b73f85-4fd5-46e7-93ee-ffcade72e92e.png">
 # Workshop de criação de portfólio com GitHub Pages
 
 ## Antes de começar:
@@ -28,3 +27,9 @@ Aqui, daremos um nome super especial para o repositório, chamaremos ele de `seu
 *Caso você já tenha um repositório criado com esse nome, para seguirmos no workshop, chame esse repositório de portfolio, ou outro nome*
 
 Após escolher um nome pro seu repositório, colocar uma descrição, marque a opção `Add a README.md file`, também deixe o seu repositório como público, afinal, queremos mostrar nosso portfólio ao mundo!
+
+<img width="1440" alt="Captura de Tela 2022-11-11 às 19 10 01" src="https://user-images.githubusercontent.com/10578275/201437757-7ad1232a-0c0a-40b6-b771-1152fdc2db89.png">
+
+Uma vez preenchido tudo, basta clicar no botão `Create Repository`
+
+<img width="724" alt="Captura de Tela 2022-11-11 às 19 10 23" src="https://user-images.githubusercontent.com/10578275/201437796-04d631ea-7b65-43fe-870d-45e41cd5682f.png">
