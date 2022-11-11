@@ -70,3 +70,4 @@ Então agora vamos entender um pouco da sintaxe de Markdown.
 | Link               | [titulo]\(https://www.exemplo.com)              |
 | Imagem   | \![texto alternativo]\(linkimagem.jpg) |
 
+## Vamos começar com um título pro Nosso Site, uma descrição de nós mesmos e uma lista de coisas que estamos estudando
