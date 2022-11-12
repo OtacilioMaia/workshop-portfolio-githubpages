@@ -115,3 +115,12 @@ Crie uma nova seção de projetos e nela coloque uma imagem, logo, foto ou algo 
 ````
 ![Texto Alternativo](https://linkDaimagem.jpg)
 ````
+
+<img width="1440" alt="Captura de Tela 2022-11-12 às 12 36 24" src="https://user-images.githubusercontent.com/10578275/201481731-77554ab1-9993-40b4-9eaf-eccb5eaa86aa.png">
+
+## Você pode fazer imagens cicláveis com um inception de links
+
+
+````
+[![Texto alternativo](linkDaImagem)](link final)
+````
