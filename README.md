@@ -106,5 +106,12 @@ plugins:
 
 <img width="1440" alt="Captura de Tela 2022-11-12 às 12 16 50" src="https://user-images.githubusercontent.com/10578275/201481008-33b92654-846c-468f-9ec9-ccedffba88a9.png">
 
-então clicar no botão `commit changes` no fim da página
+então clicar no botão `commit changes` no fim da página, uma vez a build feita, agora seu site tem um tema. 
 
+## Vamos Adcionar Imagens
+
+Crie uma nova seção de projetos e nela coloque uma imagem, logo, foto ou algo que descreva seu projeto, dica: Você pode hospedar suas fotos num drive publico ou imgur, ou ainda, no próprio repositório, numa pasta `assets`
+
+````
+![Texto Alternativo](https://linkDaimagem.jpg)
+````
