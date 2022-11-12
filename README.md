@@ -82,6 +82,14 @@ Podemos dar um nome ao nosso commit e descrever o que fizemos nele.
 
 Uma vez escrito sua mensagem de commit, basta clicar no botão verde `Commit changes`
 
+## Pronto, em poucos minutos seu site já estará no ar. 
+
+Assim que realizamos o commit, uma pipeine de deploy automaticamente roda, e assim que o site está disponível temos um check verde ✔️ ao lado do commit.
+
+<img width="874" alt="Captura de Tela 2022-11-12 às 11 51 14" src="https://user-images.githubusercontent.com/10578275/201479854-b5c7f4ef-a52a-4d9a-acfd-1fae0abd2088.png">
+
+Uma vez que o verde aparece, seu site já está no ar e você pode acessar-lo em `SeuUserName.github.io`
+
 ## Vamos configurar um template
 
 Na barra superior de seu repositório clique em `Add File > Create new file` crie um arquivo com o nome `_config.yml` 
