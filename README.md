@@ -81,3 +81,13 @@ Podemos dar um nome ao nosso commit e descrever o que fizemos nele.
 <img width="1192" alt="Captura de Tela 2022-11-11 às 19 43 42" src="https://user-images.githubusercontent.com/10578275/201440699-8b0276c0-1fc2-4e73-ae14-a64ea7b12f3a.png">
 
 Uma vez escrito sua mensagem de commit, basta clicar no botão verde `Commit changes`
+
+## Vamos configurar um template
+
+Na barra superior de seu repositório clique em `Add File > Create new file` crie um arquivo com o nome `_config.yml` 
+
+Neste arquivo iremos escolher um tema, vamos começar com o tema `minima`, você pode ver uma lista completa de temas suportados aqui: https://pages.github.com/themes/
+
+<img width="1440" alt="Captura de Tela 2022-11-12 às 11 45 31" src="https://user-images.githubusercontent.com/10578275/201479578-94ec9ace-b78c-4ed7-8b3d-eb8e51cd341f.png">
+
+então clicar no botão `commit changes` no fim da página
