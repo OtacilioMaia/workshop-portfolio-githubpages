@@ -124,3 +124,8 @@ Crie uma nova seção de projetos e nela coloque uma imagem, logo, foto ou algo 
 ````
 [![Texto alternativo](linkDaImagem)](link final)
 ````
+
+<img width="1440" alt="Captura de Tela 2022-11-12 às 12 45 53" src="https://user-images.githubusercontent.com/10578275/201482253-42bbefd4-fe85-4be9-8c02-f67d41a9ba1a.png">
+
+Você também pode adcionar gifs e deixar tudo mais animado!
+
