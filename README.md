@@ -94,8 +94,17 @@ Uma vez que o verde aparece, seu site já está no ar e você pode acessar-lo em
 
 Na barra superior de seu repositório clique em `Add File > Create new file` crie um arquivo com o nome `_config.yml` 
 
-Neste arquivo iremos escolher um tema, vamos começar com o tema `minima`, você pode ver uma lista completa de temas suportados aqui: https://pages.github.com/themes/
+Neste arquivo iremos escolher um tema, vamos começar com o tema `Architect`, você pode ver uma lista completa de temas suportados aqui: https://pages.github.com/themes/
 
-<img width="1440" alt="Captura de Tela 2022-11-12 às 11 45 31" src="https://user-images.githubusercontent.com/10578275/201479578-94ec9ace-b78c-4ed7-8b3d-eb8e51cd341f.png">
+Para colocar o tema Architect coloque no arquivo:
+
+````
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
+````
+
+<img width="1440" alt="Captura de Tela 2022-11-12 às 12 16 50" src="https://user-images.githubusercontent.com/10578275/201481008-33b92654-846c-468f-9ec9-ccedffba88a9.png">
 
 então clicar no botão `commit changes` no fim da página
+
