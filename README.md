@@ -138,3 +138,13 @@ Você pode comprar um domínio, e continuar hospedando no GitHub Pages, mas em v
 Aqui está um tutorial de como configurar um domínio customizado:
 
 https://docs.github.com/pt/pages/configuring-a-custom-domain-for-your-github-pages-site
+
+### Só tem como fazer com Markdown?
+
+**Não!** GitHub Pages hospeda qualquer site estático, basicamente se seu site ou web app é client side, é possível hospedar no GitHub, ou seja, você pode usar html, css e JS puro, ou criar seu site com React, Vue, Remix ou qualquer tecnologia que faça build do seu site ao final para ser servido com github pages.
+
+Para usar html, css e JS puro, basta ter um arquivo index.html na raiz do projeto.
+
+Aqui vai um tutorial de como fazer deploy de um react app no GitHub Pages:
+
+https://rodrilima.medium.com/react-como-fazer-o-deploy-no-github-pages-87f6a6fde370
