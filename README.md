@@ -129,3 +129,12 @@ Crie uma nova seção de projetos e nela coloque uma imagem, logo, foto ou algo 
 
 Você também pode adcionar gifs e deixar tudo mais animado!
 
+## Extras
+
+### Usando um domínio customizado
+
+Você pode comprar um domínio, e continuar hospedando no GitHub Pages, mas em vez de usar o .github.io você pode usar .com, .com.br ou qualquer outro domínio. 
+
+Aqui está um tutorial de como configurar um domínio customizado:
+
+https://docs.github.com/pt/pages/configuring-a-custom-domain-for-your-github-pages-site
